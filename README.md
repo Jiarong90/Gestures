@@ -42,7 +42,7 @@ venv\Scripts\activate
 2. Install Dependencies:
 pip install -r requirements.txt
 
-## Prerequesites
+## Prerequisites
 1. Require CNN model.
 CNN Model in drive as the file is too large to be uploaded in Github.
 Download from:  https://drive.google.com/drive/folders/1H1SRBnbPzsQLneQQ3KYWVI4Zr5zVXC_0?usp=sharing
