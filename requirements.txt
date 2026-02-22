@@ -1,0 +1,11 @@
+tensorflow==2.15.0
+mediapipe==0.10.14
+opencv-python
+numpy==1.26.4
+pandas==2.3.3
+scikit-learn==1.7.2
+matplotlib==3.10.8
+seaborn==0.13.2
+pygame==2.6.1
+pynput
+joblib==1.5.3
