@@ -52,8 +52,11 @@ Download from:  https://drive.google.com/drive/folders/1H1SRBnbPzsQLneQQ3KYWVI4Z
 
 ## Running the Project
 Start real-time gesture prediction:
+
 python live_prediction_keys.py
+
 Then start the game:
+
 python game.py
 
 Ensure webcam is enabled, once both windows are open, gestures can be used to control the game.
