@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements a real-time hand gesture recognition system that controls a 2D game using computer vision and deep learning.
+This project implements a real-time hand gesture recognition system that controls a 2D game using computer vision.
 
 The system includes:
 - Custom gesture data collection
